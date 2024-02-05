@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Koi-IT
 - 👀 I’m interested in learning!
-- 🌱 I’m currently learning Javascript, HTML, CSS, MySQL.
+- 🌱 I’m currently learning Javascript, HTML, CSS, MySQL, Java, PHP.
 - 💞️ I’m looking to collaborate on anything exciting!
 - 📫 How to reach me koi-it.com
 
